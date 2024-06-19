@@ -1,0 +1,135 @@
+{
+  "clubs": [
+    {
+      "name": "Nkana",
+      "id": "d395"
+    },
+    {
+      "name": "xesco",
+      "id": "075d"
+    },
+    {
+      "name": "mufurila",
+      "id": "c908"
+    },
+    {
+      "id": "597f",
+      "name": "Real Madrid"
+    }
+  ],
+  "user": [
+    {
+      "name": "kabwe",
+      "password": "0987",
+      "email": "kkay24@gmail.com",
+      "id": "97e2"
+    },
+    {
+      "id": "a22c",
+      "username": "",
+      "password": "hbjhfbvr",
+      "email": ""
+    },
+    {
+      "id": "0de2",
+      "firstname": "kabwe",
+      "lastname": "kabwe",
+      "password": "123456789",
+      "email": "kkabwe907@gmail.com"
+    },
+    {
+      "id": "6dff",
+      "firstname": "kabwe",
+      "lastname": "kabwe",
+      "password": "1234",
+      "email": "kkabwe907@gmail.com"
+    },
+    {
+      "id": "26a6",
+      "firstname": "kabwe",
+      "lastname": "kabwe",
+      "password": "1234",
+      "email": "kkabwe907@gmail.com"
+    },
+    {
+      "id": "8aa2",
+      "firstname": "chisanga ",
+      "lastname": "kabwe",
+      "password": "1234",
+      "email": "chichi29@gmail.com"
+    },
+    {
+      "id": "cb59",
+      "firstname": "mwenya",
+      "lastname": "mutaba",
+      "password": "12345",
+      "email": "mut_m@gmail.com"
+    },
+    {
+      "id": "0f0b",
+      "firstname": "mwenya2",
+      "lastname": "mutaba",
+      "password": "12345",
+      "email": "mut_m@gmail.com"
+    },
+    {
+      "id": "56f2",
+      "firstname": "joseph",
+      "lastname": "kabwe",
+      "password": "12345",
+      "email": "jokas@gmail.com"
+    },
+    {
+      "id": "170a",
+      "firstname": "yoram",
+      "lastname": "daka",
+      "password": "12345",
+      "email": "yoram@gmail.com"
+    },
+    {
+      "id": "8956",
+      "username": "jokas@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "cbc5",
+      "firstname": "yoram",
+      "lastname": "daka",
+      "password": "09876",
+      "email": "daka@gmail.com"
+    },
+    {
+      "id": "a345",
+      "username": "jokas@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7c3c",
+      "firstname": "kaka",
+      "lastname": "jose",
+      "password": "454545",
+      "email": "joka@gmail.com"
+    },
+    {
+      "id": "03d7",
+      "firstname": "cena",
+      "lastname": "john",
+      "password": "4040",
+      "email": "joka@gmail.com"
+    },
+    {
+      "id": "e574",
+      "firstname": "deborah",
+      "lastname": "chibwe",
+      "password": "123456789",
+      "email": "debby@gmail.com"
+    },
+    {
+      "id": "fa63",
+      "firstname": "febby",
+      "lastname": "kaoma",
+      "password": "54321",
+      "email": "febbykay@gmail.com"
+    }
+  ]
+}
